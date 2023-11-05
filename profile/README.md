@@ -1,12 +1,5 @@
-## Hi there 👋
+# Rectify - Discord User Verification via Roblox
 
-<!--
+Welcome to the official GitHub repository of Rectify, a service that facilitates user verification on Discord through their Roblox accounts. This README will provide you with essential information about Rectify, its features, and how to use it effectively.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Banner](https://images-ext-2.discordapp.net/external/X97vdN4kkh-sFkP9J4dgKEJd6Sw5wHVhsAKvFmsMYUY/https/rectify.international/assets/images/frame10154.png?width=1499&height=529)
